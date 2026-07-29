@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glassmorphism on Viewport UI - UI curated experiences for you inspiration.</title>
+    <link>http://localhost:1313/tags/glassmorphism/</link>
+    <description>Recent content in Glassmorphism on Viewport UI - UI curated experiences for you inspiration.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2024 17:32:10 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/glassmorphism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Heart Rate Monitoring app </title>
+      <link>http://localhost:1313/posts/299-heart-rate-monitoring-app/</link>
+      <pubDate>Thu, 04 Jul 2024 17:32:10 +0000</pubDate>
+      <guid>http://localhost:1313/posts/299-heart-rate-monitoring-app/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
